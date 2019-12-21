@@ -1,0 +1,29 @@
+{
+  "name": "watch_shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuk-danijela/watch_shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuk-danijela/watch_shop/issues"
+  },
+  "homepage": "https://github.com/cuk-danijela/watch_shop#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-check-unused-css": "^2.1.4",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uncss": "^1.0.6",
+    "gulp-uncss-task": "^0.3.0",
+    "gulp-webp": "^4.0.1"
+  }
+}

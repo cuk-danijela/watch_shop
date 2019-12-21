@@ -1,0 +1,29 @@
+@media (min-width: 500px) {
+    .content {
+        width: 43%;
+    }
+
+    #back_to_top {
+        margin: 30px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .slideshow-container {
+        display: none;
+    }
+
+    .pull-right {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .slideshow-container {
+        display: none;
+    }
+
+    .pull-right {
+        display: none;
+    }
+}
