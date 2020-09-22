@@ -25,5 +25,8 @@
     "gulp-uncss": "^1.0.6",
     "gulp-uncss-task": "^0.3.0",
     "gulp-webp": "^4.0.1"
+  },
+  "dependencies": {
+    "yargs-parser": "^20.2.0"
   }
 }
