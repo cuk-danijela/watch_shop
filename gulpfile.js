@@ -8,7 +8,7 @@ const uncss = require('gulp-uncss');
 
 
 // Optimize Images
-gulp.task('imageMin', () =>
+gulp.task(imageMin(), () =>
     gulp.src('images/**/*')
     .pipe(imageMin([
         imageminWebp({
@@ -56,3 +56,7 @@ gulp.task('uncss', async function () {
             }))
         .pipe(gulp.dest('dist/css'));
 });
+
+function newFunction() {
+    return 'imageMin';
+}
