@@ -19,7 +19,7 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-check-unused-css": "^2.1.4",
-    "gulp-clean-css": "^4.2.0",
+    "gulp-clean-css": "^4.3.0",
     "gulp-imagemin": "^6.2.0",
     "gulp-uglify": "^3.0.2",
     "gulp-uncss": "^1.0.6",
